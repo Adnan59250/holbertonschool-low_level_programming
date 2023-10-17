@@ -3,7 +3,7 @@
 /**
  * main - Write a program that prints the alphabet in lowercase
  * followed by a new line.
- * Retunr: 0
+ * Return: 0
  */
 int main(void)
 {
