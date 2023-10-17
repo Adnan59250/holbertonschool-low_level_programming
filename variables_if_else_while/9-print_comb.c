@@ -15,8 +15,10 @@ int main(void)
 	{
 		putchar(x);
 	}
-	putchar('\n');
+
 	putchar(',');
+	putchar(' ');
+	putchar('\n');
 	return (0);
 }
 
