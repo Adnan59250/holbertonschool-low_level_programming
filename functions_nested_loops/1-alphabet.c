@@ -1,5 +1,5 @@
 #include "main.h"
-#include "1-main.c"
+
 /**
  * Write a function that prints the alphabet,
  * in lowercase, followed by a new line.
@@ -8,7 +8,7 @@
  * Return: 0
  */
 
-void print_alphabet(void)
+void print_alphabet(void);
 {
 	char alphabet;
 
